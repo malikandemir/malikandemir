@@ -4,11 +4,10 @@
 - 💞️ I’m looking to collaborate on Laravel
 - 📫 How to reach me malikandemir@gmail.com
 
-I graduated from Software Engineering . I have developed web automation applications with JSP and JSF for 3 years. I have developed applications with c# and Oracle for 7 years. As WCF, we offered the services offered to us through web services to the channels within the institution. 
+I have a Bachelor Degree of Computer Science .I have more than 15 years of experience in software engineering, and I believe my experience and skills would be a valuable addition to your team.
+I have a proven track record of success in developing software that meets the needs of the businesses. I have experience in a variety of industries, including security and finance, and I have been successful in developing software that is both user-friendly and meets the high standards of these industries.
+In addition to my technical skills, I am also a strong team player. I have experience working in a collaborative environment and I am motivated to work with others to achieve common goals. I am confident that I can be an asset to your team and I am excited to have the opportunity to discuss my qualifications further with you.
 
-I am currently devoloping in web technologies. I make improvements with MySql, PHP, Laravel, VueJS, Soap about four years and continues.
-
-Thanks
 
 <!---
 malikandemir/malikandemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
