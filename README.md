@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Mehmet Ali Kandemir
-- 👀 I’m interested in Laravel, Vue.js, Ubuntu
-- 🌱 I’m currently learning DevOps tools
-- 💞️ I’m looking to collaborate on Laravel
+- 👋 Hello, I'm Mehmet Ali Kandemir!
+- 👀 Passionate about Software Architecture and building scalable, efficient systems.
+- 🌱 Currently diving deep into DevOps tools and practices to streamline development workflows.
+- 💡 Committed to continuous learning and personal growth in the ever-evolving tech landscape.
 - 📫 How to reach me malikandemir@gmail.com
 
-I have a Bachelor's Degree in Computer Science.I have more than 18 years of experience in software engineering, and I believe my experience and skills would be a valuable addition to your team.
+I have a Bachelor's Degree in Computer Science. I have more than 18 years of experience in software engineering, and I believe my experience and skills would be a valuable addition to your team.
 
 I have a proven track record of success in developing software that meets the needs of businesses. I have experience in a variety of industries, including security and finance, and have successfully developed software that is both user-friendly and meets the high standards of these industries.
 
